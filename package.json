@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "firebase": "^10.12.2",
-    "preact": "^10.22.0"
+    "preact": "^10.22.0",
+    "serve": "^14.2.3"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.8.2",
