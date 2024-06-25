@@ -10,8 +10,9 @@ const firebaseConfig = {
   projectId: "buddy-5e08b",
   storageBucket: "buddy-5e08b.appspot.com",
   messagingSenderId: "112307110644",
-  appId: "1:112307110644:web:1e77e2b807f407a37054a1"
+  appId: "1:112307110644:web:1e77e2b807f407a37054a1",
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+console.debug({ app });
